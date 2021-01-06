@@ -1,5 +1,5 @@
-## 👋 Hi There! 
-   This Ismaël Mékéné, but you can keep it to me_teor21 ⚡
+### 👋 Hi There! 
+### This Ismaël Mékéné, but you can keep it to me_teor21 ⚡
 
 <!--
 **IsmaelMekene/IsmaelMekene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
