@@ -46,7 +46,7 @@ class DataScientist:
 
 This is {name}, I live in {location}. I am looking for a intership in {role} and recently I am focusing on {focus} for my personal growth.
 
-Fish is the most delicious thing on heart, I love solving old maths theorems and also kicking people in the head. 
+Fish is the most delicious thing on hearth, I love solving old maths theorems and also kicking people in the head. 
 
 
 .format(
