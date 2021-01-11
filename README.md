@@ -102,7 +102,7 @@ me.greetings()
 
 ## 🗂️ Highlight Projects
 
-<a href="">
+<a href="https://github.com/IsmaelMekene/meteor-object-detector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsmaelMekene&repo=meteor-object-detector&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="meteor-object-detector" />
 </a>
 
