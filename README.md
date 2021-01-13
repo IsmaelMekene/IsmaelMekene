@@ -84,6 +84,7 @@ me.greetings()
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Sql-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
 
 
 
