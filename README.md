@@ -32,7 +32,7 @@ class DataScientist:
         self.name = "Ismael Mekene"
         self.role = "Data Scientist"
         self.location = "48.8702661,2.3796416666666667"
-        self.blog = "https://https://ismaelmekene.github.io/"
+        self.blog = "https://ismaelmekene.github.io/"
         self.knowledge_base = [
             "Mathematics"
             "Machine Learning",
