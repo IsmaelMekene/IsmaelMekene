@@ -106,7 +106,7 @@ me.greetings()
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IsmaelMekene&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IsmaelMekene&theme=nord&column=7)](https://github.com/IsmaelMekene/github-profile-trophy)
 
 
 ## 🗂️ Highlight Projects
