@@ -32,28 +32,24 @@ Here are some ideas to get you started:
 class DataScientist:
     def __init__(self):
         self.name = "Ismael Mekene"
-        self.role = "Data Scientist"
-        self.location = "48.8702661,2.3796416666666667"
+        self.role = "Computer Vision"
+        self.location = "Paris, France"
         self.blog = "https://ismaelmekene.github.io/"
         self.knowledge_base = [
-            "Mathematics"
+            "Data Science",
+            "Deep Learning",
+            "Mathematics",
             "Machine Learning",
             "Optimization",
             "Software Enginnering",
-            "Computer Vision",
         ]
-        self.knowledge_base.insert(0, "Deep Learning")
+        self.knowledge_base.insert(0, "Data Science")
 
     def greetings(self):
         print(
-            """Hello buddy, thanks for dropping by!
-
+            "Hello buddy, thanks for dropping by!
 This is {name}, I live in {location}. I am looking for a intership in {role} and recently I am focusing on {focus} for my personal growth.
-
-Fish is the most delicious thing on hearth, I love solving old maths theorems and also kicking people in the head. 
-
-
-.format(
+Fish is the most delicious thing on hearth, I love solving old maths theorems and also kicking people in the head. For any enquiry, check me on {blog}!".format(
                 name=self.name,
                 location=self.location,
                 role=self.role,
@@ -62,7 +58,6 @@ Fish is the most delicious thing on hearth, I love solving old maths theorems an
                 blog=self.blog,
             )
         )
-
 
 me = DataScientist()
 me.greetings()
