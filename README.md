@@ -54,6 +54,8 @@ class DataScientist:
             Fish is the most delicious thing on hearth.
             I love solving old maths theorems and also kicking people in the head.
             For any enquiry, check me on {blog}!"
+                        
+                        
                         .format(                            
                                         name=self.name,
                                         location=self.location,
