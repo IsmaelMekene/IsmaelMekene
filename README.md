@@ -49,7 +49,7 @@ class DataScientist:
         print(
                         "Hello buddy, thanks for dropping by!
             
-            This is {name}, I live in {location} and I am looking for a intership in {role}.
+            This is {name}, I live in {location} and I am looking for a internship in {role}.
             Recently, I've been focusing on {focus} for my personal growth.
             Fish is the most delicious thing on hearth.
             I love solving old maths theorems and also kicking people in the head.
