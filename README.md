@@ -119,16 +119,16 @@ me.greetings()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsmaelMekene&repo=meteor-CUTIE&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="meteor-CUTIE" />
 </a>
 
-<a href="https://github.com/IsmaelMekene/meteor-east-detector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsmaelMekene&repo=meteor-east-detector&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="meteor-east-detector" />
+<a href="https://github.com/IsmaelMekene/meteor-realtime-object-tracking">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsmaelMekene&repo=meteor-realtime-object-tracking&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="meteor-realtime-object-tracking" />
 </a>
 
 <a href="https://github.com/IsmaelMekene/OCR-medicalword-detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsmaelMekene&repo=OCR-medicalword-detection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="OCR-medicalword-detection" />
 </a>
  
-<a href="https://github.com/IsmaelMekene/pruning-image-classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsmaelMekene&repo=pruning-image-classification&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="pruning-image-classification" />
+<a href="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsmaelMekene&repo=3D-Mesh-Classification-PointNet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="3D-Mesh-Classification-PointNet" />
 </a>
  
  
