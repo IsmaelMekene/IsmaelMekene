@@ -36,7 +36,6 @@ class DataScientist:
         self.name = "Ismael Mekene"
         self.role = "Computer Vision"
         self.location = "Paris, France"
-        self.blog = "https://ismaelmekene.github.io/"
         self.knowledge_base = [
             "Data Science",
             "Deep Learning",
