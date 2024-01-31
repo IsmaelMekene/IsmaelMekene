@@ -1,5 +1,5 @@
 ### 
-###     👋 Hi, This is [meteor_21] 😄   Welcome back here! ⚡
+###     👋 Hi, This is [JoyBoy] 😄   Welcome back here! ⚡
 ###         
 
 <!--
@@ -26,25 +26,23 @@ Here are some ideas to get you started:
 
 
 ```python
-#@uthor: me_teor21
+#@uthor: JoyBoy
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 
-class DataScientist:
+class ResearchScientist:
     def __init__(self):
         self.name = "Ismael Mekene"
         self.role = "Computer Vision"
         self.location = "Paris, France"
         self.knowledge_base = [
-            "Data Science",
             "Deep Learning",
             "Mathematics",
-            "Machine Learning",
+            "Computer Vision",
             "Optimization",
             "Software Enginnering",
         ]
-        self.knowledge_base.insert(0, "Data Science")
 
     def greetings(self):
         print(
@@ -67,7 +65,7 @@ class DataScientist:
                                     )
                                 )
 
-me = DataScientist()
+me = ResearchScientist()
 me.greetings()
 
 ```
