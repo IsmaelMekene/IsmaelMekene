@@ -51,7 +51,7 @@ I love doing maths and building good software.
 
 ---
 
-## 📊 GitHub Stats & 📈 Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/IsmaelMekene">
