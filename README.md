@@ -1,134 +1,87 @@
-### 
-###     👋 Hi, This is [JoyBoy](https://ismaelmekene.com/) 😄   Welcome back here! ⚡
-###         
+Yo, this is Ismael 👋
+======================
 
-<!--
-**IsmaelMekene/IsmaelMekene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Research Software Engineer
+----------------------------------------------
 
-Here are some ideas to get you started:
+I love doing maths and building good software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-👋
+* 🔭  Exploring **GenAI, Large-Scale ML, and Applied Research**  
+* 💡  Always excited about **pushing the boundaries of AI research with software**   
 
+---
 
+## 🌐 Socials
 
--->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=IsmaelMekene.IsmaelMekene)
-![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)<!--(https://github.com/ellerbrock/open-source-badge/)-->  
-
-
-```python
-#@uthor: JoyBoy
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class ResearchScientist:
-    def __init__(self):
-        self.name = "Ismael Mekene"
-        self.role = "Computer Vision"
-        self.location = "Paris, France"
-        self.knowledge_base = [
-            "Deep Learning",
-            "Mathematics",
-            "Computer Vision",
-            "Optimization",
-            "Software Enginnering",
-        ]
-
-    def greetings(self):
-        print(
-                        "Hello buddy, thanks for dropping by!
-            
-            This is {name}, I live in {location} and I am looking for a internship in {role}.
-            Recently, I've been focusing on {focus} for my personal growth.
-            Fish is the most delicious thing on hearth.
-            I love solving old maths theorems and also kicking people in the head.
-            For any enquiry, check me on {blog}!"
-                        
-                        
-                        .format(                            
-                                        name=self.name,
-                                        location=self.location,
-                                        role=self.role,
-                                        focus=self.knowledge_base[0],
-                                        knowledge_base=", ".join(self.knowledge_base[1:]),
-                                        blog=self.blog,
-                                    )
-                                )
-
-me = ResearchScientist()
-me.greetings()
-
-```
-
-## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-Sublim_Text-informational?style=flat&logo=sublim-text&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/code-Juputer_Notebook-informational?style=flat&logo=jupyter-notebook&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-
-<p align="center">
-  <img src="https://github.com/IsmaelMekene/Metaheuristics--Stochastic-Optimization/blob/main/images/theprev.png"/>
+<p align="left">
+<a href="https://github.com/IsmaelMekene" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+</a>  
+<a href="https://www.linkedin.com/in/ismael-c-9a7792136/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>  
+<a href="https://x.com/i_smaeel_" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+</a>
 </p>
 
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Hadoop-informational?style=flat&logo=hadoop&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Sql-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
+---
 
+## 💻 Tech Stack
 
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-%23FFD700.svg?style=for-the-badge&logo=google&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+**Machine Learning & Deep Learning**  
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-%23FFD700.svg?style=for-the-badge&logo=google&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
-<!--
+**Big Data & Cloud**  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDB92D.svg?style=for-the-badge&logo=apache-spark&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-%2328A745.svg?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
+**Development & Tools**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-<a href="https://github.com/IsmaelMekene/IsmaelMekene">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelMekene&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Mékéné's GitHub Stats" />
+---
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/IsmaelMekene"><img src="https://github-readme-stats.vercel.app/api?username=IsmaelMekene&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ismael's GitHub stats" /></a>
+
+---
+
+## 📈 Most Used Languages
+
+<a href="https://github.com/IsmaelMekene"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelMekene&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Most used languages" /></a>
+
+---
+
+## ☕ Support Me
+
+If you like my work and want to support me:  
+
+<ul style="list-style-type: none; margin: 0;">
+<li style="display: inline-block; margin-right: 0.25rem;">
+<a href="https://buymeacoffee.com/ismaelmekene">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
 </a>
+</li>
+</ul>
 
-<a href="https://github.com/IsmaelMekene/IsmaelMekene">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsmaelMekene&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Mékéné's GitHub Stats" />
-</a>
+---
 
-## 🏆 GitHub Trophies
+[![](https://visitcount.itsvg.in/api?id=IsmaelMekene&icon=5&color=0)](https://visitcount.itsvg.in)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IsmaelMekene&theme=nord&column=7)](https://github.com/IsmaelMekene)
-
-
-## 🗂️ Starred &  Ongoing Projects
-
-<a href="https://github.com/IsmaelMekene/meteor-CUTIE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsmaelMekene&repo=meteor-CUTIE&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="meteor-CUTIE" />
-</a>
-
-<a href="https://github.com/IsmaelMekene/meteor-realtime-object-tracking">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsmaelMekene&repo=meteor-realtime-object-tracking&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="meteor-realtime-object-tracking" />
-</a>
-
-<a href="https://github.com/IsmaelMekene/OCR-medicalword-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsmaelMekene&repo=OCR-medicalword-detection&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="OCR-medicalword-detection" />
-</a>
- 
-<a href="https://github.com/IsmaelMekene/3D-Mesh-Classification-PointNet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsmaelMekene&repo=3D-Mesh-Classification-PointNet&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="3D-Mesh-Classification-PointNet" />
-</a>
-
-  
--->
- 
