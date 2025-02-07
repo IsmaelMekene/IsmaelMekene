@@ -66,6 +66,19 @@ I love doing maths and building good software.
 
 ---
 
+## 📊 GitHub Stats & 📈 Most Used Languages
+
+<p align="center">
+  <a href="https://github.com/IsmaelMekene">
+    <img src="https://github-readme-stats.vercel.app/api?username=IsmaelMekene&show_icons=true&count_private=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ismael's GitHub stats" />
+  </a>
+  <a href="https://github.com/IsmaelMekene">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelMekene&layout=compact&hide=jupyter%20notebook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" alt="Most used languages" />
+  </a>
+</p>
+
+---
+
 ## ☕ Support Me
 
 If you like my work and want to support me:  
